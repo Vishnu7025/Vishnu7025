@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu7025&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu7025" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnu7025&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu7025" /> </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
