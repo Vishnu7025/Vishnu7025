@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/akshayitzme/akshayitzme/master/images/code.gif" width="45%" align="left">
   <div align="center">
     <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-    <p><b>⚛<h1 align="center">Hi 👋, I'm Vishnu V.S<br></h1>⚛</b></p>
+    <p><b><h1 align="center">⚛Hi 👋, I'm Vishnu V.S⚛<br></h1></b></p>
     <p><b>👨🏻‍💻self taught programmer👨🏻‍💻</b></p>
     <p><b>🌐Any fool can write code that a computer can understand.
       Good programmers write code that humans can understand🌐</b></p>
