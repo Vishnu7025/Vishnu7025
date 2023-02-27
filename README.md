@@ -15,9 +15,9 @@
       Good programmers write code that humans can understand🌐</b></p>
   </div>
         <div align="center">
-    <a href="https://www.linkedin.com/in/vishnu-vs7025" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="35px" alt="akshayitzme - linkedin"/></a>
-    &nbsp;&nbsp;<a href="https://web.telegram.org/k/" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="35px" alt="coderitzme - telegram"/></a>
-	  &nbsp;&nbsp;<a href="https://www.instagram.com/vishnu_v.s___/" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Instagram-Logo-1024x982.png" width="35px" alt="akshayitzme - instagram"/></a>
+    <a href="https://www.linkedin.com/in/vishnu-vs7025" target="_blank"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="35px" alt=""/></a>
+    &nbsp;&nbsp;<a href="https://web.telegram.org/k/" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="35px" alt=""/></a>
+	  &nbsp;&nbsp;<a href="https://www.instagram.com/vishnu_v.s___/" target="_blank"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Instagram-Logo-1024x982.png" width="35px" alt=""/></a>
   </div>
 </div>
 </div>
